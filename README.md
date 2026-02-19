@@ -45,5 +45,5 @@ This project uses a dataset of rental listings in Nairobi to build regression mo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/peter-munyalo/nairobi-rent-prediction.git
-cd nairobi-rent-prediction
+git clone https://github.com/peter-munyalo/nairobi-rent.git
+cd nairobi_rent
