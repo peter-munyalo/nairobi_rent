@@ -41,9 +41,4 @@ This project uses a dataset of rental listings in Nairobi to build regression mo
 - Adding estimated size improved the model slightly, but distance to CBD did not add much beyond location dummies.
 - The current model explains about 19% of the variance in rental prices, indicating room for improvement with more data (actual size, amenities, precise coordinates).
 
-## 🚀 How to Run
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/peter-munyalo/nairobi-rent.git
-cd nairobi_rent
